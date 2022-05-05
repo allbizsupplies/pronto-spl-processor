@@ -1,4 +1,4 @@
-# SPL Processor
+# Pronto SPL Processor
 
 Transform supplier price lists to Pronto SPL import format.
 
