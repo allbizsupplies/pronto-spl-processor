@@ -89,7 +89,7 @@ class DataGridReader:
         return value
 
 
-class BRO_craft(DataGridReader):
+class BRO(DataGridReader):
     HEADER_ROW_INDEX = 2
 
     def get_occupied_row_indices(self, worksheet: Worksheet):
